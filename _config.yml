@@ -85,9 +85,9 @@ comments:
     issue_term:
   giscus:
     repo: Rachel-3/Rachel-3.github.io
-    repo_id: R_kgDOMDhn1Q
+    repo_id: R_kgDOMDjSrA
     category: Q&A
-    category_id: DIC_kwDOMDhn1c4CfyD4
+    category_id: DIC_kwDOMDjSrM4CfyHL
     mapping: pathname
     strict: 0
     input_position: bottom
